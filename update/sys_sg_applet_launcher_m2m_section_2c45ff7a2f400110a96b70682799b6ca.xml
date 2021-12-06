@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="NeedIt">96cf2bf22f400110a96b70682799b66e</applet_launcher>
         <order>20</order>
-        <section display_value="Future ">68457f3a2f400110a96b70682799b6da</section>
+        <section display_value="Future NeedIt">68457f3a2f400110a96b70682799b6da</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-30 02:37:54</sys_created_on>

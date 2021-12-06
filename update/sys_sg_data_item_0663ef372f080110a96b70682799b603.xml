@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Users main</name>
+        <query_condition table="v_st_user_and_group_profile">user={{Users_Sys_ID_IP}}^type=user<item endquery="false" field="user" goto="false" newquery="false" operator="=" or="false" value="{{Users_Sys_ID_IP}}"/>
+            <item display_value="User" endquery="false" field="type" goto="false" newquery="false" operator="=" or="false" value="user"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-03 03:53:50</sys_created_on>
+        <sys_id>0663ef372f080110a96b70682799b603</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Users main</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_data_item_0663ef372f080110a96b70682799b603</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-03 03:54:32</sys_updated_on>
+        <table>v_st_user_and_group_profile</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=0663ef372f080110a96b70682799b603"/>
+</record_update>

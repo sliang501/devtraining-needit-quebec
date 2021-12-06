@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="NeedIt">96cf2bf22f400110a96b70682799b66e</applet_launcher>
         <order>30</order>
-        <section display_value="Past">a53077362f400110a96b70682799b6d9</section>
+        <section display_value="Past NeedIt">a53077362f400110a96b70682799b6d9</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-11-30 02:15:52</sys_created_on>
